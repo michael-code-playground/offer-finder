@@ -1,1 +1,3 @@
-# offer-finder
+# Offer finder - idea
+
+
